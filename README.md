@@ -22,5 +22,11 @@ Aplicación web sencilla desarrollada en **JavaScript, HTML y CSS** que permite 
 ## Ejemplo de uso
 1. Escribe el nombre de un amigo en el campo de texto.
 2. Haz clic en Añadir para registrarlo en la lista.
-3. Cuando hayas agregado todos los nombres, presiona Sortear Amigo.
-4. ¡Se mostrará el nombre del amigo secreto elegido aleatoriamente!
+<img width="921" height="470" alt="imagen" src="https://github.com/user-attachments/assets/b7f5decd-eb87-4673-821d-669892541333" />
+
+4. Cuando hayas agregado todos los nombres, presiona Sortear Amigo.
+<img width="921" height="468" alt="imagen" src="https://github.com/user-attachments/assets/128fae13-34dd-453f-87c3-fc4b95b83d8a" />
+
+6. Ahora verás el nombre del amigo secreto elegido aleatoriamente!!
+<img width="921" height="468" alt="imagen" src="https://github.com/user-attachments/assets/4472422f-9c5b-4da7-aa41-d3f213c0d79b" />
+
